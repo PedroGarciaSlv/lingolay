@@ -1,6 +1,4 @@
-Claro. Aqui está em **JSON puro**, sem explicações dentro do bloco, para você copiar e colar diretamente:
 
-```
 {
   "_meta.name": "Português-BR",
   "'{key}' could not be mapped, try another key.": "Não foi possível mapear '{key}', tente outra tecla.",
